@@ -3,7 +3,7 @@
 Connect with me:
 website: [website]
 linkedIn: [linkedIn]
-dribble: [dribble]
+dribble: [dribbble]
 <!--
 **alotoftype/alotoftype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
