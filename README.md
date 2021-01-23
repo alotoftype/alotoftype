@@ -1,4 +1,4 @@
-### Hello I'm Serge M. 👋
+### Hello I'm Serge M. 👋🏾
 
 
 --- 
