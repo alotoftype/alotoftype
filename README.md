@@ -1,6 +1,6 @@
 ### Hello I'm Serge M. 👋
 
-Connect with me:
+Connect with me:  
 website: [website]
 linkedIn: [linkedIn]
 dribble: [dribbble]
