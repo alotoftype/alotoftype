@@ -1,7 +1,7 @@
 ### Hello I'm Serge M. 👋🏾
 
 
---- 
+---
 
 Connect with me:  
 website: [website]
@@ -9,6 +9,8 @@ linkedIn: [linkedIn]
 dribble: [dribbble]
 
 <img align="left" alt="alotoftype's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alotoftype&show_icons=true&hide_border=true" />
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=alotoftype)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **alotoftype/alotoftype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
