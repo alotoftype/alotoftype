@@ -1,12 +1,12 @@
 ### Hello I'm Serge M. 👋🏾
-[![trophy](https://github-profile-trophy.vercel.app/?username=alotoftype)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=alotoftype)](https://github.com/ryo-ma/github-profile-trophy)  
+![VistorCount](http://profile-counter.glitch.me/alotoftype/count.svg)
 ---
 
 Connect with me:  
-website: [website]
-linkedIn: [linkedIn]
-dribble: [dribbble]
+- website: [website]
+- linkedIn: [linkedIn]
+- dribble: [dribbble]
 
 <img align="left" alt="alotoftype's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alotoftype&show_icons=true&hide_border=true" />
 
@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 [linkedIn]: https://www.linkedin.com/in/sergem82/
 [twitter]: https://twitter.com/alotoftype
 [dribbble]: https://dribbble.com/smjr
+
