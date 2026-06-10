@@ -1,6 +1,4 @@
 ### Hello I'm Serge M. 👋🏾
-[![trophy](https://github-profile-trophy.vercel.app/?username=alotoftype)](https://github.com/ryo-ma/github-profile-trophy)  
-![VistorCount](http://profile-counter.glitch.me/alotoftype/count.svg)
 ---
 
 Connect with me:  
